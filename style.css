@@ -1,0 +1,10 @@
+article:first-child{
+   background-color: antiquewhite;
+   padding: 20px;
+   margin: 10px;
+   flex:5;
+   border: 2px solid black;
+}
+
+    
+
